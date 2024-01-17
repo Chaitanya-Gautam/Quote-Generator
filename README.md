@@ -41,9 +41,20 @@ To run the app locally, follow these steps:
 5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the app.
 
 
+## Demo 🎥
+
+![Demo](https://github.com/Chaitanya-Gautam/Quote-Generator/blob/main/quoteGenerator.png)
+
+
+
 ## Acknowledgments 🙏
 
 - Thanks to the [Type.fit API](https://type.fit/api/quotes) for providing the collection of quotes.
 
 ---
 Happy Coding!😊
+
+
+
+
+
