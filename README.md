@@ -46,4 +46,4 @@ To run the app locally, follow these steps:
 - Thanks to the [Type.fit API](https://type.fit/api/quotes) for providing the collection of quotes.
 
 ---
-Happy Coding!
+Happy Coding!😊
