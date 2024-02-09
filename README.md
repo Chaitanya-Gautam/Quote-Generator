@@ -1,6 +1,6 @@
 # Quote Generator App 📜
 
-This is a simple React-based web application that generates random quotes. The app fetches a collection of quotes from the [Type.fit API](https://type.fit/api/quotes) and displays a random quote along with its author. Users can click the "New Quote" button to get a new random quote.
+This is a simple React-based web application that generates random quotes. The app fetches a collection of quotes from the [Quotes_API](https://github.com/Chaitanya-Gautam/Quotes_API/) and displays a random quote along with its author. Users can click the "New Quote" button to get a new random quote.
 
 ## Features 🌟
 
@@ -46,10 +46,6 @@ To run the app locally, follow these steps:
 ![Demo](https://github.com/Chaitanya-Gautam/Quote-Generator/blob/main/quoteGenerator.png)
 
 
-
-## Acknowledgments 🙏
-
-- Thanks to the [Type.fit API](https://type.fit/api/quotes) for providing the collection of quotes.
 
 ---
 Happy Coding!😊
