@@ -10,7 +10,7 @@ export default function App() {
   const [quote, setQuote] = useState(null);
 
   useEffect(() => {
-    fetch("https://type.fit/api/quotes")
+    fetch("https://Chaitanya-Gautam.github.io/Quotes_API/quotes")
       .then((res) => res.json())
       .then((json) => {
         setQuotes(json);
